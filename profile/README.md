@@ -1,1 +1,1 @@
-![background](background.svg)
+![background](background.png)
